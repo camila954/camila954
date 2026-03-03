@@ -6,6 +6,7 @@ Soy Data Analyst e Ingeniera Ambiental y Sanitaria, con experiencia en la aplica
 Trabajo con:
 - **Python** (Pandas, NumPy, Seaborn, Matplotlib)
 - **SQL**
+- **Knime**
 - **Power BI**
 - **Excel avanzado**
 - **R / RStudio**
